@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\ece 370_visual studios\assignment 2\source.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\ece 370_visual studios\assignment 2\source.cpp(305): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+c:\ece 370_visual studios\assignment 2\source.cpp(375): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Assignment_2.vcxproj -> C:\ECE 370_Visual Studios\Assignment 2\Debug\Assignment_2.exe
